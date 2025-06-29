@@ -1,4 +1,4 @@
-# Hi, I'm Jibran Bohra 👋
+# Hi, I'm Jibran Bohra
 
 I hold an MSc in Theoretical Physics from the University of Cape Town. My journey has taken me from exploring the frontiers of quantum theory to building robust systems in software engineering and quantitative finance.
 
